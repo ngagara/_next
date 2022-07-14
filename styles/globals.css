@@ -4,7 +4,7 @@ body {
   margin: 0;
   color: var(--black);
   font-family: var(--font-family);
-  background: #e5e5e5;
+  background: #f5f6f8;
 }
 
 a {
@@ -19,7 +19,9 @@ a {
 :root {
   --black: #3b434e;
   --white: #ffffff;
+  --gray-light: #ebebeb;
   --primary: #7653fc;
+  --primary-hover: #6344df;
   --red: #fc836d;
   --green: #1dc47e;
   --green-light: #c8f8e4;
